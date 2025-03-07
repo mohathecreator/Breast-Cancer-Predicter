@@ -67,3 +67,27 @@ To run this project locally, follow these steps:
 ### 🔹 Install dependencies  
 ```bash
 pip install pandas scikit-learn matplotlib
+```
+
+### 🔹 Run the script
+```bash
+python breast_cancer_prediction.py
+```
+
+## Dataset Information
+
+The dataset used in this project is the **Breast** **Cancer** **Wisconsin** **Dataset**, available in `sklearn.datasets`. It contains:
+- **569 samples**
+- **30 numerical features**
+- **Binary target variable** (`0 = malignant, 1 = benign`)
+
+For more details, visit the [Breast Cancer Dataset Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
+
+## 🤝 Contributing
+
+Feel free to contribute by:
+- Improving the model
+- Adding a web interface
+- Exploring different machine learning techniques
+  
+## ⭐ If you find this project useful, consider giving it a star on GitHub!

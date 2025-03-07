@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Prediction using Machine Learning  
+# 🩷Breast Cancer Prediction using Machine Learning  
 
 ## 📌 Project Overview  
 This project aims to develop a **machine learning model** that predicts whether a tumor is **malignant** or **benign** based on medical features. The dataset used is the **Breast Cancer Wisconsin Dataset** from `sklearn.datasets`.  
